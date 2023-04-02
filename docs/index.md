@@ -19,7 +19,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 
 - Major: Computer Science, Minor: Electrical Engineering and Computer Engineering
 - Member of Tau Beta Pi, Thomas E. Ricks Academic Scholarship (Merit-based)
-- GPA 3.99/4.0 GPA
+- GPA 3.99/4.0
 
 
 ## Related Experience
