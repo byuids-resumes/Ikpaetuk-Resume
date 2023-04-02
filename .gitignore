@@ -5,3 +5,4 @@ _site/
 .DS_Store?
 .Rproj.user
 mdresume.Rproj
+/.idea/misc.xml
