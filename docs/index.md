@@ -55,10 +55,10 @@ __Caravel Associates__, American Fork, UT
 
 ## Service and Work History
 
-`2025-2027`
+`2020-2021`
 __Computer Science/Python Tutor__, Brigham Young University-Idaho
 
-`2023-2025`
+`2015-2017`
 __Service Missionary__, Nigeria
 
 
